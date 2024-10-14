@@ -1,0 +1,146 @@
+﻿  Tilestet.cpp
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(32,67): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(32,67): warning C4244:         with
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(32,67): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(32,67): warning C4244:             T=float
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(32,67): warning C4244:         ]
+  (compilando archivo de origen "Tilestet.cpp")
+  
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(32,51): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(32,51): warning C4244:         with
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(32,51): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(32,51): warning C4244:             T=float
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(32,51): warning C4244:         ]
+  (compilando archivo de origen "Tilestet.cpp")
+  
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(33,73): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(33,73): warning C4244:         with
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(33,73): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(33,73): warning C4244:             T=float
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(33,73): warning C4244:         ]
+  (compilando archivo de origen "Tilestet.cpp")
+  
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(33,57): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(33,57): warning C4244:         with
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(33,57): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(33,57): warning C4244:             T=float
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(33,57): warning C4244:         ]
+  (compilando archivo de origen "Tilestet.cpp")
+  
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(34,79): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(34,79): warning C4244:         with
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(34,79): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(34,79): warning C4244:             T=float
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(34,79): warning C4244:         ]
+  (compilando archivo de origen "Tilestet.cpp")
+  
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(34,57): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(34,57): warning C4244:         with
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(34,57): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(34,57): warning C4244:             T=float
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(34,57): warning C4244:         ]
+  (compilando archivo de origen "Tilestet.cpp")
+  
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(35,73): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(35,73): warning C4244:         with
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(35,73): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(35,73): warning C4244:             T=float
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(35,73): warning C4244:         ]
+  (compilando archivo de origen "Tilestet.cpp")
+  
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(35,51): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(35,51): warning C4244:         with
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(35,51): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(35,51): warning C4244:             T=float
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(35,51): warning C4244:         ]
+  (compilando archivo de origen "Tilestet.cpp")
+  
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,70): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,70): warning C4244:         with
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,70): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,70): warning C4244:             T=unsigned int
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,70): warning C4244:         ]
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,70): warning C4244:         and
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,70): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,70): warning C4244:             T=float
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,70): warning C4244:         ]
+  (compilando archivo de origen "Tilestet.cpp")
+  
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,53): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,53): warning C4244:         with
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,53): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,53): warning C4244:             T=unsigned int
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,53): warning C4244:         ]
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,53): warning C4244:         and
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,53): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,53): warning C4244:             T=float
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(38,53): warning C4244:         ]
+  (compilando archivo de origen "Tilestet.cpp")
+  
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,76): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,76): warning C4244:         with
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,76): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,76): warning C4244:             T=unsigned int
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,76): warning C4244:         ]
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,76): warning C4244:         and
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,76): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,76): warning C4244:             T=float
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,76): warning C4244:         ]
+  (compilando archivo de origen "Tilestet.cpp")
+  
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,59): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,59): warning C4244:         with
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,59): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,59): warning C4244:             T=unsigned int
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,59): warning C4244:         ]
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,59): warning C4244:         and
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,59): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,59): warning C4244:             T=float
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(39,59): warning C4244:         ]
+  (compilando archivo de origen "Tilestet.cpp")
+  
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,82): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,82): warning C4244:         with
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,82): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,82): warning C4244:             T=unsigned int
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,82): warning C4244:         ]
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,82): warning C4244:         and
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,82): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,82): warning C4244:             T=float
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,82): warning C4244:         ]
+  (compilando archivo de origen "Tilestet.cpp")
+  
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,59): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,59): warning C4244:         with
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,59): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,59): warning C4244:             T=unsigned int
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,59): warning C4244:         ]
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,59): warning C4244:         and
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,59): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,59): warning C4244:             T=float
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(40,59): warning C4244:         ]
+  (compilando archivo de origen "Tilestet.cpp")
+  
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,76): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,76): warning C4244:         with
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,76): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,76): warning C4244:             T=unsigned int
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,76): warning C4244:         ]
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,76): warning C4244:         and
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,76): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,76): warning C4244:             T=float
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,76): warning C4244:         ]
+  (compilando archivo de origen "Tilestet.cpp")
+  
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,53): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,53): warning C4244:         with
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,53): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,53): warning C4244:             T=unsigned int
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,53): warning C4244:         ]
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,53): warning C4244:         and
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,53): warning C4244:         [
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,53): warning C4244:             T=float
+D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\JocHeroiEnemic\TileMap.h(41,53): warning C4244:         ]
+  (compilando archivo de origen "Tilestet.cpp")
+  
+  JocHeroiEnemic.vcxproj -> D:\AluCiclesGS2\TilesetMapMaker\JocHeroiEnemic - simple\Debug\JocHeroiEnemic.exe
